@@ -7,7 +7,7 @@ const Nav = () => {
       <nav>
         <ul >
           <li>
-            <a href="https://www.netflix.com/browse" target="_blank" rel="noopener noreferrer noopener">Browse</a>
+            <a href="https://www.netflix.com/browse" target="_blank" rel="noopener noreferrer noopener">Broooooowse!</a>
           </li>
           <li>
             <Link to="/top-picks">Top picks</Link>
